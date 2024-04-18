@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(90deg, #0664A4, #05B1BF, #0664A4);
+}
+
+main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: 3px 3px 10px black;
+}
+
+h1 {
+    margin: 0;
+    color: #0763A4;
+    text-align: center;
+}
+
+h2 {
+    color: #14A0E4;
+}
+
+p {
+    margin: 0;
+}
